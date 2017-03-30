@@ -30,5 +30,5 @@ outlined on that page and do not file a public issue.
 Please use pylint with the default settings.
 
 ## License
-By contributing to ml_sampler, you agree that your contributions will be licensed
+By contributing to bootstrapped, you agree that your contributions will be licensed
 under its BSD license.
